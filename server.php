@@ -215,7 +215,7 @@ if ( !$debug ){
 }
 
 
-$web_root = "/home/fumubang/xtgxiso/phpsource/socket";
+$web_root = "/home/";
 $request = array();
 $sock = false;
 
